@@ -1,0 +1,9 @@
+[submodule "EDDA"]
+	path = EDDA
+	url = git@github.com:dangbert/EDDA.git
+[submodule "KR/bayesian-network"]
+	path = KR/bayesian-network
+	url = git@github.com:dangbert/bayesian-network.git
+[submodule "MAS"]
+	path = MAS
+	url = git@github.com:dangbert/MAS.git
