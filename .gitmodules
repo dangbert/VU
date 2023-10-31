@@ -1,6 +1,7 @@
 [submodule "EDDA"]
 	path = EDDA
 	url = git@github.com:dangbert/EDDA.git
+	branch = master
 [submodule "KR/bayesian-network"]
 	path = KR/bayesian-network
 	url = git@github.com:dangbert/bayesian-network.git
@@ -25,3 +26,7 @@
 	path = EA
 	url = git@github.com:dkopi/revolve2.git
 	branch = master
+[submodule "UvA-DiffRec"]
+	path = UvA-DiffRec
+	url = git@github.com:dangbert/UvA-DiffRec.git
+	branch = main
