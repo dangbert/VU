@@ -4,6 +4,24 @@
 [submodule "KR/bayesian-network"]
 	path = KR/bayesian-network
 	url = git@github.com:dangbert/bayesian-network.git
+	branch = main
 [submodule "MAS"]
 	path = MAS
 	url = git@github.com:dangbert/MAS.git
+	branch = master
+[submodule "DMT"]
+	path = DMT
+	url = git@github.com:dangbert/DM-Assignments.git
+	branch = main
+[submodule "NLP"]
+	path = NLP
+	url = git@github.com:dangbert/vu-nlp.git
+	branch = main
+[submodule "KR/SAT"]
+	path = KR/SAT
+	url = git@github.com:dangbert/SAT.git
+	branch = master
+[submodule "EA"]
+	path = EA
+	url = git@github.com:dkopi/revolve2.git
+	branch = master
