@@ -30,3 +30,11 @@
 	path = UvA-DiffRec
 	url = git@github.com:dangbert/UvA-DiffRec.git
 	branch = main
+[submodule "DL/uvadlc_practicals"]
+	path = DL/uvadlc_practicals
+	url = git@github.com:dangbert/uvadlc_practicals.git
+	branch = main
+[submodule "FoB"]
+	path = FoB
+	url = git@github.com:dangbert/bioinformatics.git
+	branch = master
