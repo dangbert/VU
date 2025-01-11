@@ -38,3 +38,6 @@
 	path = FoB
 	url = git@github.com:dangbert/bioinformatics.git
 	branch = master
+[submodule "SIR"]
+	path = SIR
+	url = git@github.com:dangbert/SIR.git
